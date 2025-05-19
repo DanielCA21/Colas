@@ -11,7 +11,7 @@
         array_push($cola, "Flyying Colours");
         array_push($cola, "Ride");
 
-        $elemento = array_shift($cola);
-        echo "el primer elemento que llegó a la cola es: ".$elemento
+        $bandas = array_shift($cola);
+        echo "el primer elemento que llegó a la cola es: ".$bandas; 
         
 ?>
